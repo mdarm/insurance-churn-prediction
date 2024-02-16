@@ -19,6 +19,9 @@ A model from Oracle's analytics team, was previously implemented in a large insu
 - Increased profitability through effective churn management.
 - Enhanced competitiveness in the insurance industry.
 
+# Dataset
+[data](https://drive.google.com/drive/folders/1Gr6d3ruHvLqrAI4GZl63_3buDaHhA0g8)
+
 # Material for consideration
 ## Solutions
 - [Using historic data to predict the time to the next event](https://github.com/ragulpr/wtte-rnn/tree/master)
