@@ -27,3 +27,12 @@ A model from Oracle's analytics team, was previously implemented in a large insu
 - [Using historic data to predict the time to the next event](https://github.com/ragulpr/wtte-rnn/tree/master)
 ## Readings
 - [Churn modeling of life insurance policies via statistical and machine learning methods -- Analysis of important features](https://arxiv.org/abs/2202.09182)
+
+
+# To-do
+- Friday: preliminary runs of Naive Bayes and Logistic regression
+- Saturday: Experiment with more algorithms and do some feature engineering
+    - deep learning models?
+    - unsupervised methods?
+    - continue exploring data
+- Sunday: Final run(s) and work on pitch
