@@ -1,10 +1,8 @@
 # Insurance Churn Prediction
 
 ## Description
-This project focuses on predicting customer churn within the insurance industry, specifically for car insurance contracts. The predicted churn rates for insurance contracts are set to expire within a horizon of two months, with a particular focus on balancing the identification of false churners and false non-churners. The goal is to enable targeted interventions that enhance customer retention and optimize the balance between customer retention efforts and resource allocation.
 
 ## Challenge outcome
-Enhance an insurance company's ability to predict churn, thereby increasing its profitability and competitive edge through effective churn management.
 
 ## Benchmark
 A model from Oracle's analytics team, was previously implemented in a large insurance company in Greece, achieving an approximate accuracy of 72% - allegedly.
@@ -30,9 +28,6 @@ A model from Oracle's analytics team, was previously implemented in a large insu
 
 
 # To-do
-- Friday: preliminary runs of Naive Bayes and Logistic regression
-- Saturday: Experiment with more algorithms and do some feature engineering
-    - deep learning models?
-    - unsupervised methods?
-    - continue exploring data
-- Sunday: Final run(s) and work on pitch
+- Organise all results
+- Put code in proper modular form
+- Use notebook for recreating results
