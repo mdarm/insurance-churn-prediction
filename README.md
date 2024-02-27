@@ -19,7 +19,7 @@ For implementation details, have a look at the provided [notebook](churn-predict
 Grid-search results, using 5-fold cross-validation, on logistic regression.
 
 <p align="center">
-<img src="images/lr-results.png" width="800">
+<img src="images/lr-correct.png" width="800">
 </p>
 
 ### Model 2. [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
