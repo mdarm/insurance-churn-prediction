@@ -30,7 +30,7 @@ Grid-search results, using 5-fold cross-validation, on random forest.
 </p>
 
 ### Model 3. [LightGBM](https://github.com/microsoft/LightGBM)
-Grid-search results, using 5-fold cross-validation, on light gradient-boosting machine.
+Grid-search results, using 5-fold cross-validation, on a light gradient-boosting machine.
 
 <p align="center">
 <img src="images/lgbm-results.png" width="800">
@@ -43,5 +43,5 @@ Testing results of all models and of their Ensemble, using a soft-voting scheme.
 <img src="images/ensemble-results.png" width="400">
 </p>
 
-## References
-### SMOTE [Synthetic Minority Over-sampling Technique](https://arxiv.org/abs/1106.1813)
+## License 
+### The MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
