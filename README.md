@@ -1,7 +1,7 @@
 ## A data-driven approach for churn-prediction of car-insurance contracts
 This is a data-driven solution for churn prediction, using Oracle's dataset which was provided as a special challenge for the AI Hackathon. We used an ensemble of three machine-learning algorithms, each with its own feature engineering, to get a solution that achieved 90% accuracy for predicting whether a client is likely to churn or not.
 
-For implementation details, have a look at the provided [notebook](churn-prediction.ipynb), while the presentation itself, can be found in the [pitch file](pitch.pdf).
+For implementation details, have a look at the provided [notebook](churn-prediction.ipynb), and for the presentation, look at the [pitch file](pitch.pdf).
 
 ## [**AI Hackathon, Athens, 2024**](https://www.hackathongreece.ai/) : **Special Challenge Distinction (3rd runner-up)**
 
